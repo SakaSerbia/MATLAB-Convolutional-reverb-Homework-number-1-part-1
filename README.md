@@ -1,7 +1,7 @@
 # About 
 This work present homework number 1, part 1 for the school year 2016/2017 in [Digital Signal Processing](http://tnt.etf.rs/~oe3dos/) in the 3nd year, Department of Electronics, School of Electrical Engineering, University of Belgrade.
 
-# About the homework number 1, part 1 in Serbian
+# About the homework number 1 in Serbian
 Cilj prvog domaćeg zadatka je da studenti samostalno probaju osnovne metode frekvencijske analize signala korišćenjem diskretne Furijeove transformacije i da na realnim primerima uoče prednosti brzih algoritama za izračunavanje diskretne Furijeove transformacije u primeni izračunavanja konvolucije, kao i da ovladaju elementarnim korišćenjem programskog paketa MATLAB u digitalnoj obradi signala.
 
 Domaći zadatak se sastoji iz četiri dela. Prvi deo domaćeg zadatka predstavlja primenu diskretne Furijeove transformacije za izračunavanje konvolucije prilikom emulacije reverberacije zvuka. Drugi deo domaćeg zadatka je poređenje različitih prozorskih funkcija u frekvencijskoj analizi signala. Treći deo zahteva crtanje spektrograma i identifikaciju matematičkog oblika signala iz odbiraka koji su dati. Četvrti i poslednji deo se odnosi na frekvencijsku analizu realnog muzičkog signala.
