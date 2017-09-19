@@ -1,5 +1,5 @@
 # About 
-This work present homework number 1, part 1 for the school year 2016/2017 in [Digital Signal Processing](http://tnt.etf.rs/~oe3dos/) in the 3nd year, Department of Electronics, School of Electrical Engineering, University of Belgrade.
+This work present homework number 1, part 1 for the school year 2016/2017 in [Digital Signal Processing](http://tnt.etf.rs/~oe3dos/) in the 3rd year, Department of Electronics, School of Electrical Engineering, University of Belgrade.
 
 # About the homework number 1 in Serbian
 Cilj prvog domaćeg zadatka je da studenti samostalno probaju osnovne metode frekvencijske analize signala korišćenjem diskretne Furijeove transformacije i da na realnim primerima uoče prednosti brzih algoritama za izračunavanje diskretne Furijeove transformacije u primeni izračunavanja konvolucije, kao i da ovladaju elementarnim korišćenjem programskog paketa MATLAB u digitalnoj obradi signala.
